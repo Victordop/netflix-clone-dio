@@ -8,6 +8,6 @@ Repositório criado para a atividade "Recriando a Interface do Netflix", do Boot
 - Flexbox.
 - FontAwesome.
 - JQuery para fazer carrossel. 
-- @media screen and (max-width:)/*responsividade*/
+- @media screen and (max-width:) - /*responsividade*/ -
 
 
