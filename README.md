@@ -4,7 +4,7 @@ Repositório criado para a atividade "Recriando a Interface do Netflix", do Boot
 ## Com este projeto aprendi:
 - O conceito de wrapper/container.
 - Como resetar as configurações iniciais css da nossa página. 
- ### utilizar:
+ ### Utilizar:
 - Flexbox.
 - FontAwesome.
 - JQuery para fazer carrossel. 
